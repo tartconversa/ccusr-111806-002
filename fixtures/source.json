@@ -1,0 +1,25 @@
+{
+  "title": "银行股复权新高的来源资料采集",
+  "category": "银行证券资料",
+  "choice": "市场",
+  "revision": "披露版本",
+  "detail_label": "价格与公司行动",
+  "entity": "证券与交易日",
+  "fact": "复权依据",
+  "items": [
+    {
+      "id": "bank-high-a",
+      "name": "建设银行 A 股",
+      "group": "甲",
+      "detail": "价格与公司行动甲",
+      "changed_detail": "价格与公司行动修订甲"
+    },
+    {
+      "id": "bank-high-b",
+      "name": "工商银行 A 股",
+      "group": "乙",
+      "detail": "价格与公司行动乙",
+      "changed_detail": "价格与公司行动修订乙"
+    }
+  ]
+}
